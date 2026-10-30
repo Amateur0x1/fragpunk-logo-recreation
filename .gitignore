@@ -1,0 +1,8 @@
+# Generated media exports; kept locally, not committed
+renders/
+output/
+**/output/
+
+# Local tooling
+node_modules/
+.DS_Store
